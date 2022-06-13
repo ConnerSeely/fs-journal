@@ -3,17 +3,17 @@
 **1.** What do the letters of the acronym `CRUD` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+Create, Read, Update, and Delete.
 ```
 **2.** Each action that `CRUD` represents maps to an HTTP request. What HTTP request does each `CRUD` action correspond to?
 <!-- enter you answer in the space below -->
 ```
-
+Get, Post, Put, Delete
 ```
 **3.** What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 <!-- enter you answer in the space below -->
 ```
-
+Object-Relational Mapping.
 ```
 **4.** Which two `HTTP` request types include a body?
 <!-- enter you answer in the space below -->
@@ -33,7 +33,8 @@ let Schema = ________.Schema;
 ```
 <!-- enter you answer in the space below -->
 ```
-
+{model} from "{location/model}"
+let schema = model.schema
 ```
 **7.** What is middleware?
 <!-- enter you answer in the space below -->
